@@ -1,4 +1,4 @@
-# Olympic-Medals
+# The Next Olympic medalist
 
 #  
 # 
